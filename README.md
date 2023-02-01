@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first every html web page project ive done. I will be displaying my html skills i have aquired in a couple days. I hope down the life i can look back at this and see how far I became coding. Im very confident that I will do a good job and Ill write a self reflection when im done!!
